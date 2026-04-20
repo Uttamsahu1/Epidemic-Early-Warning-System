@@ -107,7 +107,7 @@ Features = ["Day", "Lag1", "Lag7", "Lag14", "Roll7", "Roll14", "DayOfWeek", "Mon
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/epidemic-early-warning.git
+git clone https://github.com/Uttamsahu1/epidemic-early-warning.git
 cd epidemic-early-warning
 ```
 
